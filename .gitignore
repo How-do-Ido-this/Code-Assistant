@@ -1,0 +1,10 @@
+# .gitignore
+# Lo que NO queremos que Git guarde
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+history.log
+.pytest_cache/
+.vscode/
